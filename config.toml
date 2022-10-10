@@ -1,5 +1,5 @@
 baseURL = "https://hikanna.my.id"
-title   = "Hello Friend NG"
+title   = "Just testing ?"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
@@ -37,7 +37,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Jane Doe"
+  name = "Eurika"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Hello Friend NG"
+  homeSubtitle = "Empty page"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
